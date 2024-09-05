@@ -4,7 +4,7 @@
 
 1. Clone the Hackaton github repository:
 ```bash
-git clone https://github.com/tainabugs/hackathon-midnight-2.git
+git clone https://github.com/ErickRomeroDev/hackathon-midnight-2.git
 cd hackathon-midnight-2
 ```
 
