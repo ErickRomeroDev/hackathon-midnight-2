@@ -38,7 +38,7 @@ export const Navbar = () => {
 
       <div className="flex gap-x-12">
         <Link
-          href="https://github.com/tainabugs/hackathon-midnight-2/blob/main/README.md"
+          href="https://github.com/ErickRomeroDev/hackathon-midnight-2/blob/main/README.md"
           target="_blank"
           rel="noopener noreferrer"
         >
