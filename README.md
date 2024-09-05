@@ -28,7 +28,7 @@ yarn dev
 
 5. Open http://localhost:3000 in your browser.
 
-6. If you just want to test out the Dapp without installing it on your local machine. There is a live Demo available at: midnighthackathon.eddalabas.io
+6. If you just want to test out the Dapp without installing it on your local machine. There is a live Demo available at: https://midnighthackathon.eddalabs.io/
 
 7. For executing contracts on Midnight you will need to have a Midnight wallet and a proof server. Please follow instructions in the following link:
    https://docs.midnight.network/develop/tutorial/using/prereqs
