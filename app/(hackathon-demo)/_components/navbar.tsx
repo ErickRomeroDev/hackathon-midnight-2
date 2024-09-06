@@ -33,7 +33,7 @@ export const Navbar = () => {
           width={100}
           height={50}
         />
-        <h1>Hackathon demo - Bulletin Board (Next.js 14 App router)</h1>
+        <h1>Hackathon demo - Q&A Dashboard (Next.js 14 App router)</h1>
       </div>
 
       <div className="flex gap-x-12">
